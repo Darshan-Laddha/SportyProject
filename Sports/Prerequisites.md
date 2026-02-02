@@ -7,9 +7,9 @@ A Java 17 / Spring Boot 3 integration service that polls external sports APIs an
 ## 🛠️ Project Setup
 
 ### 1. Prerequisites
-* **Java:** JDK 17
-* **Build Tool:** Maven 3.8+
-* **Messaging:** Kafka Broker (Running on `localhost:9092`)
+1.**Java:** JDK 17
+2.**Build Tool:** Maven 3.8+
+3.**Messaging:** Kafka Broker (Running on `localhost:9092`)
 
 ### 2. IDE Configuration
 1. **Import:** Import as a Maven Project.
